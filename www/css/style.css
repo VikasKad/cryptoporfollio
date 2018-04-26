@@ -1,1 +1,12 @@
 /* Empty. Add your own CSS if you like */
+
+.green{
+    background:#32CD32;
+  }
+  .red {
+    background:#DC143C !important;
+  }
+  .customAvatar{
+    max-width: 40px !important;
+    max-height: 40px !important;
+  }
